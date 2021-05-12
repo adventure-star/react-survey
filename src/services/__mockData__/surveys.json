@@ -1,0 +1,18 @@
+{
+  "survey_results": [
+    {
+      "name": "Survey A",
+      "url": "/surveys/1",
+      "participant_count": 100,
+      "response_rate": 0.7,
+      "submitted_response_count": 80
+    },
+    {
+      "name": "Survey B",
+      "url": "/surveys/2",
+      "participant_count": 150,
+      "response_rate": 1,
+      "submitted_response_count": 150
+    }
+  ]
+}
